@@ -13,7 +13,7 @@
 */
 body {
      font-family: "andale mono";
-     background-color: black;
+     background-color: #200000;
 }
 
 .content{
@@ -37,8 +37,7 @@ body {
 
 h1{
     font-size: 20px;
-    color: white;
-    font-weight:bold;
+
     line-height: 1.3em;
     display:inline;
 }
@@ -52,10 +51,11 @@ span{
 
 a{
     text-decoration: none;
-    color: white;
-    font-size:16px;
+    font-weight: bold;
+    color: #FFE4B5;
+    font-size:18px;
 }
-h1:hover {color:#EECFA1;}
+a:hover {color: #FAFAD2}
 .footer{
     clear:both;
     margin: 0px 0px 30px 30px;
