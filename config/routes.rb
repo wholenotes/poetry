@@ -1,5 +1,7 @@
 Poetry::Application.routes.draw do
   root :to => "home#index"
+
+  match '/oranges_and_bananas' => 'home#oranges_and_bananas'
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
