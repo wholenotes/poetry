@@ -61,7 +61,7 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/ravel/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="127" selection-start="4207" selection-end="4207" vertical-scroll-proportion="0.6325301">
+            <state line="27" column="99" selection-start="4948" selection-end="4948" vertical-scroll-proportion="0.90361446">
               <folding />
             </state>
           </provider>
@@ -825,7 +825,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/ravel/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="127" selection-start="4207" selection-end="4207" vertical-scroll-proportion="0.6325301">
+        <state line="27" column="99" selection-start="4948" selection-end="4948" vertical-scroll-proportion="0.90361446">
           <folding />
         </state>
       </provider>
