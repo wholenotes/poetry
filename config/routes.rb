@@ -1,8 +1,12 @@
 Poetry::Application.routes.draw do
+  devise_for :users
+
   root :to => "home#index"
 
   match '/ravel' => 'ravel#index'
+  match '/ravel/warp_and_weft' => 'ravel#warp_and_weft'
   match '/oranges_and_bananas' => 'home#oranges_and_bananas'
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
