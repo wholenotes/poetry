@@ -58,10 +58,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="12" selection-start="459" selection-end="459" vertical-scroll-proportion="0.0">
+            <state line="20" column="9" selection-start="469" selection-end="469" vertical-scroll-proportion="0.25">
               <folding />
             </state>
           </provider>
@@ -85,10 +85,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ravel_controller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="ravel_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/ravel_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="53" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0375">
+            <state line="1" column="53" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -130,11 +130,11 @@
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/views/ravel/index.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config/environments/development.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/ravel/warp_and_weft.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/ravel_controller.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -841,11 +841,6 @@
         <state line="0" column="0" selection-start="0" selection-end="102" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="12" selection-start="459" selection-end="459" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/development.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="79" selection-start="272" selection-end="272" vertical-scroll-proportion="0.0">
@@ -877,7 +872,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/ravel_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="53" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0375">
+        <state line="1" column="53" selection-start="99" selection-end="99" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="9" selection-start="469" selection-end="469" vertical-scroll-proportion="0.25">
           <folding />
         </state>
       </provider>
