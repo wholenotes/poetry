@@ -2,11 +2,12 @@ class RavelController < ApplicationController
   #before_filter :authenticate_user!, except: [:index]
 
   def index
-
+    if detect_browser == "mobile_application"
+      render "index_mobile"
+    end
   end
 
   def warp_and_weft
-
     if detect_browser == "mobile_application"
       render "warp_and_weft_mobile"
     end
