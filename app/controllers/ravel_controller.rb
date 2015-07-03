@@ -6,10 +6,9 @@ class RavelController < ApplicationController
   end
 
   def warp_and_weft
-    puts "The web browser is: #{detect_browser}"
 
     if detect_browser == "mobile_application"
-      render warp_and_weft_mobile
+      render "warp_and_weft_mobile"
     end
   end
 
