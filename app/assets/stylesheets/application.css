@@ -80,70 +80,46 @@ Contraband title animation
 */
 
 .loader {
+    height:0px;
     text-align: center;
     font-family: 'Nunito', sans-serif;
     color: transparent;
-}
-
-.loader span {
-    font-size: 120px;
-    text-shadow:
-    0 0 2px rgba(204, 208, 212,0.9),
-    0 15px 25px rgba(0, 0, 0, 0.3),
-    0 -2px 3px rgba(0, 0, 0, 0.1),
-    0 -5px 10px rgba(255, 255, 255, 0.5),
-    0 5px 10px rgba(0, 0, 0, 0.3),
-    0 3px 4px rgba(255, 255, 255, 0.2),
-    0 0 20px rgba(255, 255, 255, 0.45);
-
-    -webkit-animation: loading 1.2s ease-in-out 2 alternate;
-    -moz-animation: loading 1.2s ease-in-out 2 alternate;
-    -ms-animation: loading 1.2s ease-in-out 2 alternate;
-    animation: loading 1.2s ease-in-out 2 alternate;
+    position:relative;
+    font-size:120px;
+    -webkit-animation: loading 8s;
 }
 
 @-webkit-keyframes loading {
-    to { text-shadow:
-    0 0 2px rgba(204, 208, 212,0.2),
-    0 0 3px rgba(0, 0, 0, 0.02),
-    0 0 0 rgba(0, 0, 0, 0),
-    0 0 0 rgba(255, 255, 255, 0),
-    0 0 0 rgba(0, 0, 0, 0),
-    0 0 0 rgba(255, 255, 255, 0),
-    0 0 0 rgba(255, 255, 255, 0);}
-}
+    0% { height:0;}
+    25%{
+        height:238px;
+        text-shadow:
+        0 0 2px rgba(204, 208, 212,0.9),
+        0 15px 25px rgba(0, 0, 0, 0.3),
+        0 -2px 3px rgba(0, 0, 0, 0.1),
+        0 -5px 10px rgba(255, 255, 255, 0.5),
+        0 5px 10px rgba(0, 0, 0, 0.3),
+        0 3px 4px rgba(255, 255, 255, 0.2),
+        0 0 20px rgba(255, 255, 255, 0.45);
+    }
+    50% {
+        text-shadow:
+        0 0 2px rgba(204, 208, 212,0.9),
+        0 15px 25px rgba(0, 0, 0, 0.3),
+        0 -2px 3px rgba(0, 0, 0, 0.1),
+        0 -5px 10px rgba(255, 255, 255, 0.5),
+        0 5px 10px rgba(0, 0, 0, 0.3),
+        0 3px 4px rgba(255, 255, 255, 0.2),
+        0 0 20px rgba(255, 255, 255, 0.45);
+        .first-page {
+            height:0px;
+        }
+    }
 
-@-moz-keyframes loading {
-    to { text-shadow:
-    0 0 2px rgba(204, 208, 212,0.2),
-    0 0 3px rgba(0, 0, 0, 0.02),
-    0 0 0 rgba(0, 0, 0, 0),
-    0 0 0 rgba(255, 255, 255, 0),
-    0 0 0 rgba(0, 0, 0, 0),
-    0 0 0 rgba(255, 255, 255, 0),
-    0 0 0 rgba(255, 255, 255, 0);}
-}
-
-@-ms-keyframes loading {
-    to { text-shadow:
-    0 0 2px rgba(204, 208, 212,0.2),
-    0 0 3px rgba(0, 0, 0, 0.02),
-    0 0 0 rgba(0, 0, 0, 0),
-    0 0 0 rgba(255, 255, 255, 0),
-    0 0 0 rgba(0, 0, 0, 0),
-    0 0 0 rgba(255, 255, 255, 0),
-    0 0 0 rgba(255, 255, 255, 0);}
-}
-
-@keyframes loading {
-    to { text-shadow:
-    0 0 2px rgba(204, 208, 212,0.2),
-    0 0 3px rgba(0, 0, 0, 0.02),
-    0 0 0 rgba(0, 0, 0, 0),
-    0 0 0 rgba(255, 255, 255, 0),
-    0 0 0 rgba(0, 0, 0, 0),
-    0 0 0 rgba(255, 255, 255, 0),
-    0 0 0 rgba(255, 255, 255, 0);}
+    100% {
+        text-shadow:none;
+        height:0;
+    }
 }
 
 .loader span:nth-child(2) {
