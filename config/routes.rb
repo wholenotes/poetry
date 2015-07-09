@@ -5,6 +5,7 @@ Poetry::Application.routes.draw do
 
   match '/ravel' => 'ravel#index'
   match '/ravel/warp-and-weft' => 'ravel#warp_and_weft'
+  match '/ravel/contraband' => 'ravel#contraband'
   match '/oranges_and_bananas' => 'home#oranges_and_bananas'
 
   # The priority is based upon order of creation:
