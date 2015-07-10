@@ -76,9 +76,11 @@ a:hover {color: #FFAA00}
     font-family:Courier New
 }
 /*
-Contraband title animation
+CONTRABAND
 */
 
+.CBP {font-size: 55px;}
+.declaration-reply {font-size:25px;}
 .loader {
     height:0px;
     font-family: 'Nunito', sans-serif;
@@ -334,10 +336,106 @@ Contraband title animation
     top:35px;
     -webkit-animation: loading 5s;
     -webkit-animation-delay: 14.4s;
+}
+/*US Customs and Border Protection*/
+.page-23 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 7s;
+    -webkit-animation-delay: 19s;
+    z-index: 50;
+}
+/*RECALCULATE DELAY*/
+/*My parents settled in snow*/
+.page-24 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:55px;
+    -webkit-animation: loading 5s;
+    -webkit-animation-delay: 0s;
+    z-index: 50;
+}
+/*I was their firstborn*/
+.page-25 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 11.5s;
+    -webkit-animation-delay: 4.5s;
+    z-index: 50;
+}
+/*Declare all articles you've acquired abroad*/
+.page-26 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 7s;
+    -webkit-animation-delay: 14.5s;
+    z-index: 50;
+}
+/*when we touch*/
+.page-27 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 7s;
+    -webkit-animation-delay: 21s;
+    z-index: 80;
+}
+/*when your mother broke*/
+.page-28 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 12s;
+    -webkit-animation-delay: 27s;
+    z-index: 90;
+}
+.page-29 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 5s;
+    -webkit-animation-delay: 37.5s;
     z-index: 100;
 }
 
-/*I was their first born*/
+/*recalculate animation delay here*/
+/*your finger travels along*/
+.page-30 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:58px;
+    -webkit-animation: loading 5.5s;
+    -webkit-animation-delay: 0s;
+}
+.page-31 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 7s;
+    -webkit-animation-delay: 4.5s;
+    z-index: 100;
+}
 
 @-webkit-keyframes loading {
     0% { height:0;
