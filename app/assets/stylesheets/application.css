@@ -417,16 +417,349 @@ CONTRABAND
 
 /*recalculate animation delay here*/
 /*your finger travels along*/
-.page-30 {
+/*.page-30 {*/
+    /*text-align: center;*/
+    /*position:absolute;*/
+    /*height:0;*/
+    /*width:100%;*/
+    /*top:58px;*/
+    /*-webkit-animation: loading 5.5s;*/
+    /*-webkit-animation-delay: 0s;*/
+/*}*/
+/*declare all articles*/
+/*.page-31 {*/
+    /*text-align: center;*/
+    /*position:absolute;*/
+    /*height:0;*/
+    /*width:100%;*/
+    /*top:35px;*/
+    /*-webkit-animation: loading 7s;*/
+    /*-webkit-animation-delay: 4.5s;*/
+    /*z-index: 50;*/
+/*}*/
+/*I show you where to find*/
+/*.page-32 {*/
+    /*text-align: center;*/
+    /*position:absolute;*/
+    /*height:0;*/
+    /*width:100%;*/
+    /*top:35px;*/
+    /*-webkit-animation: loading 6.5s;*/
+    /*-webkit-animation-delay: 9s;*/
+    /*z-index: 60;*/
+/*}*/
+/*when we kiss in the morning*/
+/*.page-33 {*/
+    /*text-align: center;*/
+    /*position:absolute;*/
+    /*height:0;*/
+    /*width:100%;*/
+    /*top:35px;*/
+    /*-webkit-animation: loading 5s;*/
+    /*-webkit-animation-delay: 13.5s;*/
+    /*z-index: 70;*/
+/*}*/
+/*there are times travel*/
+/*.page-34 {*/
+    /*text-align: center;*/
+    /*position:absolute;*/
+    /*height:0;*/
+    /*width:100%;*/
+    /*top:35px;*/
+    /*-webkit-animation: loading 6.5s;*/
+    /*-webkit-animation-delay: 18.5s;*/
+/*}*/
+/*I smile*/
+/*.page-35 {*/
+    /*text-align: center;*/
+    /*position:absolute;*/
+    /*height:0;*/
+    /*width:100%;*/
+    /*top:35px;*/
+    /*-webkit-animation: loading 7s;*/
+    /*-webkit-animation-delay: 25s;*/
+    /*z-index: 10;*/
+/*}*/
+/*once a year*/
+/*.page-36 {*/
+    /*text-align: center;*/
+    /*position:absolute;*/
+    /*height:0;*/
+    /*width:100%;*/
+    /*top:35px;*/
+    /*-webkit-animation: loading 7s;*/
+    /*-webkit-animation-delay: 31s;*/
+    /*z-index: 20;*/
+/*}*/
+
+/*in the Sheesh Mahal*/
+/*.page-37 {*/
+    /*text-align: center;*/
+    /*position:absolute;*/
+    /*height:0;*/
+    /*width:100%;*/
+    /*top:35px;*/
+    /*-webkit-animation: loading 7s;*/
+    /*-webkit-animation-delay: 38s;*/
+    /*z-index: 30;*/
+/*}*/
+
+/*how many selves have I left behind*/
+/*.page-38 {*/
+    /*text-align: center;*/
+    /*position:absolute;*/
+    /*height:0;*/
+    /*width:100%;*/
+    /*top:35px;*/
+    /*-webkit-animation: loading 7s;*/
+    /*-webkit-animation-delay: 44.5s;*/
+    /*z-index: 40;*/
+/*}*/
+
+/*I travel so easily I could almost forget how my mother*/
+/*.page-39 {*/
+    /*text-align: center;*/
+    /*position:absolute;*/
+    /*height:0;*/
+    /*width:100%;*/
+    /*top:35px;*/
+    /*-webkit-animation: loading 7s;*/
+    /*-webkit-animation-delay: 51.5s;*/
+
+/*}*/
+/*if war broke*/
+/*.page-40 {*/
+    /*text-align: center;*/
+    /*position:absolute;*/
+    /*height:0;*/
+    /*width:100%;*/
+    /*top:35px;*/
+    /*-webkit-animation: loading 7s;*/
+    /*-webkit-animation-delay: 58s;*/
+    /*z-index: 50;*/
+/*}*/
+
+/*recalculate web animation delay here*/
+/*my father can discern the colors a crawfish sees*/
+/*.page-41 {*/
+    /*text-align: center;*/
+    /*position:absolute;*/
+    /*height:0;*/
+    /*width:100%;*/
+    /*top:35px;*/
+    /*-webkit-animation: loading 8s;*/
+    /*-webkit-animation-delay: 0s;*/
+/*}*/
+/*I would like to know*/
+/*.page-42 {*/
+    /*text-align: center;*/
+    /*position:absolute;*/
+    /*height:0;*/
+    /*width:100%;*/
+    /*top:35px;*/
+    /*-webkit-animation: loading 8s;*/
+    /*-webkit-animation-delay: 7.5s;*/
+    /*z-index: 10;*/
+/*}*/
+/*I have (We have)*/
+/*.page-43 {*/
+    /*text-align: center;*/
+    /*position:absolute;*/
+    /*height:0;*/
+    /*width:100%;*/
+    /*top:35px;*/
+    /*-webkit-animation: loading 11s;*/
+    /*-webkit-animation-delay: 15.5s;*/
+    /*z-index: 100;*/
+/*}*/
+/*my father built a machine to parse speech*/
+/*.page-44 {*/
+    /*text-align: center;*/
+    /*position:absolute;*/
+    /*height:0;*/
+    /*width:100%;*/
+    /*top:35px;*/
+    /*-webkit-animation: loading 10s;*/
+    /*-webkit-animation-delay: 26.5s;*/
+    /*z-index: 10;*/
+/*}*/
+/*he travels unquestioned across the Pacific*/
+/*.page-45 {*/
+    /*text-align: center;*/
+    /*position:absolute;*/
+    /*height:0;*/
+    /*width:100%;*/
+    /*top:35px;*/
+    /*-webkit-animation: loading 4.5s;*/
+    /*-webkit-animation-delay: 36s;*/
+    /*z-index: 20;*/
+/*}*/
+/*Controlled substances, obscene articles, and toxic substances*/
+/*.page-46 {*/
+    /*text-align: center;*/
+    /*position:absolute;*/
+    /*height:0;*/
+    /*width:100%;*/
+    /*top:35px;*/
+    /*-webkit-animation: loading 6s;*/
+    /*-webkit-animation-delay: 40.5s;*/
+    /*z-index: 30;*/
+/*}*/
+/*my father quotes 莊子 Zhuang Zhi*/
+/*.page-47 {*/
+    /*text-align: center;*/
+    /*position:absolute;*/
+    /*height:0;*/
+    /*width:100%;*/
+    /*top:35px;*/
+    /*-webkit-animation: loading 10s;*/
+    /*-webkit-animation-delay: 46.5s;*/
+/*}*/
+/*a man approaches a border checkpoint*/
+/*.page-48 {*/
+    /*text-align: center;*/
+    /*position:absolute;*/
+    /*height:0;*/
+    /*width:100%;*/
+    /*top:35px;*/
+    /*-webkit-animation: loading 5s;*/
+    /*-webkit-animation-delay: 56s;*/
+    /*z-index: 10;*/
+/*}*/
+/*this is a white horse*/
+/*.page-49 {*/
+    /*text-align: center;*/
+    /*position:absolute;*/
+    /*height:0;*/
+    /*width:100%;*/
+    /*top:35px;*/
+    /*-webkit-animation: loading 5.5s;*/
+    /*-webkit-animation-delay: 61s;*/
+    /*z-index: 20;*/
+/*}*/
+/*we can’t apply same word horse*/
+/*.page-50 {*/
+    /*text-align: center;*/
+    /*position:absolute;*/
+    /*height:0;*/
+    /*width:100%;*/
+    /*top:35px;*/
+    /*-webkit-animation: loading 8s;*/
+    /*-webkit-animation-delay: 68.5s;*/
+    /*z-index: 30;*/
+/*}*/
+/*yet  莊子 Zhuang Zhi concludes*/
+/*.page-51 {*/
+    /*text-align: center;*/
+    /*position:absolute;*/
+    /*height:0;*/
+    /*width:100%;*/
+    /*top:35px;*/
+    /*-webkit-animation: loading 7s;*/
+    /*-webkit-animation-delay: 76s;*/
+    /*z-index: 100;*/
+/*}*/
+/*recalculate web animation delay here*/
+/*I ask*/
+.page-52 {
     text-align: center;
     position:absolute;
     height:0;
     width:100%;
-    top:58px;
-    -webkit-animation: loading 5.5s;
+    top:35px;
+    -webkit-animation: loading 8s;
     -webkit-animation-delay: 0s;
 }
-.page-31 {
+/*can we declare*/
+.page-53 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 11s;
+    -webkit-animation-delay: 8s;
+}
+/*oscar grant*/
+.page-54 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 14s;
+    -webkit-animation-delay: 19s;
+}
+/*they are*/
+.page-55 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 5.5s;
+    -webkit-animation-delay: 33s;
+    z-index: 100;
+}
+/*I travel so easily...Americans with skin of a darker hue*/
+.page-56 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 16s;
+    -webkit-animation-delay: 38.5s;
+    z-index: 100;
+}
+/*I travel so easily I could almost forget...I am still here in this country loving you*/
+.page-57 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 14s;
+    -webkit-animation-delay: 54.5s;
+    z-index: 100;
+}
+/*Nandito ako*/
+.page-58 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 20s;
+    -webkit-animation-delay: 68s;
+    z-index: 100;
+}
+/*broken windshields*/
+.page-59 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 12s;
+    -webkit-animation-delay: 88s;
+    z-index: 100;
+}
+
+/*recalculate web animation delay here*/
+/*Executive order 9066*/
+.page-60 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 7s;
+    -webkit-animation-delay: 0s;
+    z-index: 100;
+}
+/*Question #28:*/
+.page-61 {
     text-align: center;
     position:absolute;
     height:0;
@@ -436,7 +769,204 @@ CONTRABAND
     -webkit-animation-delay: 4.5s;
     z-index: 100;
 }
-
+/*the 442nd Regiment*/
+.page-62 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 7s;
+    -webkit-animation-delay: 4.5s;
+    z-index: 100;
+}
+/*like the rabbit*/
+.page-63 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 7s;
+    -webkit-animation-delay: 4.5s;
+    z-index: 100;
+}
+/*うさぎ うさぎ*/
+.page-64 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 7s;
+    -webkit-animation-delay: 4.5s;
+    z-index: 100;
+}
+/*rabbit*/
+.page-65 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 7s;
+    -webkit-animation-delay: 4.5s;
+    z-index: 100;
+}
+/*some declared*/
+.page-66 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 7s;
+    -webkit-animation-delay: 4.5s;
+    z-index: 100;
+}
+/*I will speak to you*/
+.page-67 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 7s;
+    -webkit-animation-delay: 4.5s;
+    z-index: 100;
+}
+/*some danced*/
+.page-68 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 7s;
+    -webkit-animation-delay: 4.5s;
+    z-index: 100;
+}
+/*some made love*/
+.page-69 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 7s;
+    -webkit-animation-delay: 4.5s;
+    z-index: 100;
+}
+/*an orchid stem*/
+.page-70 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 7s;
+    -webkit-animation-delay: 4.5s;
+    z-index: 100;
+}
+/*I traffic in songs unsung*/
+.page-71 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 7s;
+    -webkit-animation-delay: 4.5s;
+    z-index: 100;
+}
+/*only a boy doing*/
+.page-72 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 7s;
+    -webkit-animation-delay: 4.5s;
+    z-index: 100;
+}
+/*I traffic in songs with quiet beginnings*/
+.page-73 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 7s;
+    -webkit-animation-delay: 4.5s;
+    z-index: 100;
+}
+/*she's a doll*/
+.page-74 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 7s;
+    -webkit-animation-delay: 4.5s;
+    z-index: 100;
+}
+/*she has no loving*/
+.page-75 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 7s;
+    -webkit-animation-delay: 4.5s;
+    z-index: 100;
+}
+/*clay doll  clay doll*/
+.page-76 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 7s;
+    -webkit-animation-delay: 4.5s;
+    z-index: 100;
+}
+/*I'll be her mama*/
+.page-77 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 7s;
+    -webkit-animation-delay: 4.5s;
+    z-index: 100;
+}
+/*她是個假娃娃*/
+.page-78 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 7s;
+    -webkit-animation-delay: 4.5s;
+    z-index: 100;
+}
+/*泥娃娃 泥娃娃*/
+.page-79 {
+    text-align: center;
+    position:absolute;
+    height:0;
+    width:100%;
+    top:35px;
+    -webkit-animation: loading 7s;
+    -webkit-animation-delay: 4.5s;
+    z-index: 100;
+}
 @-webkit-keyframes loading {
     0% { height:0;
     }
