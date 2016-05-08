@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+gem 'eventmachine', :git => 'git://github.com/eventmachine/eventmachine.git', :branch => 'master'
 gem 'rails', '3.2.3'
 gem 'thin'
 gem 'pg'

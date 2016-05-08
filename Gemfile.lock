@@ -1,3 +1,10 @@
+GIT
+  remote: git://github.com/eventmachine/eventmachine.git
+  revision: 539ae89b1b810f35d2585e4ac239013ac606f60e
+  branch: master
+  specs:
+    eventmachine (1.2.0.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -47,7 +54,6 @@ GEM
       railties (~> 3.1)
       warden (~> 1.2.1)
     erubis (2.7.0)
-    eventmachine (1.0.3)
     execjs (2.0.2)
     hike (1.2.3)
     i18n (0.6.9)
@@ -123,6 +129,7 @@ PLATFORMS
 DEPENDENCIES
   coffee-rails (~> 3.2.1)
   devise
+  eventmachine!
   jquery-rails
   pg
   rails (= 3.2.3)
@@ -131,3 +138,6 @@ DEPENDENCIES
   thin
   uglifier (>= 1.0.3)
   zurb-foundation
+
+BUNDLED WITH
+   1.10.5
