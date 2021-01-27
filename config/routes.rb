@@ -3,10 +3,10 @@ Poetry::Application.routes.draw do
 
   root :to => "home#index"
 
-  match '/ravel' => 'ravel#index'
-  match '/ravel/warp-and-weft' => 'ravel#warp_and_weft'
-  match '/ravel/contraband' => 'ravel#contraband'
-  match '/oranges_and_bananas' => 'home#oranges_and_bananas'
+  match '/ravel' => 'ravel#index', :via => [:get, :post]
+  match '/ravel/warp-and-weft' => 'ravel#warp_and_weft', :via => [:get, :post]
+  match '/ravel/contraband' => 'ravel#contraband', :via => [:get, :post]
+  match '/oranges_and_bananas' => 'home#oranges_and_bananas', :via => [:get, :post]
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
