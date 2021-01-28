@@ -40,4 +40,7 @@ Poetry::Application.configure do
   config.assets.check_precompiled_asset = false
 
   config.eager_load = false
+
+  # Store files locally.
+  config.active_storage.service = :local
 end

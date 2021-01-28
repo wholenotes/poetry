@@ -36,4 +36,7 @@ Poetry::Application.configure do
   config.active_support.deprecation = :stderr
 
   config.eager_load = false
+
+  # Store files locally.
+  config.active_storage.service = :local
 end

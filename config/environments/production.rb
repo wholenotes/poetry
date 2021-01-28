@@ -68,4 +68,7 @@ Poetry::Application.configure do
   config.eager_load = true
 
   config.secret_key_base = "beb2686978df30b1f8361bfdad9022fb8dddfd73e8aeace1d6435f7a1f02f705aa5233b5d7586ee7cf3eae234192b3130ecb6d0f5ff25104c9d542df34367a9e"
+
+  # Store files locally.
+  config.active_storage.service = :local
 end
