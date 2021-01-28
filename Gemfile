@@ -32,4 +32,4 @@ gem 'rake'
 
 # To use debugger
 # gem 'ruby-debug19', :require => 'ruby-debug'
-gem 'autohash'
+ruby "2.6.6"
